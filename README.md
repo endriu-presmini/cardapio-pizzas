@@ -23,7 +23,7 @@ Cardápio digital responsivo desenvolvido com HTML e CSS puro, exibindo pizzas e
 
 ## 🌐 Acesse o projeto
 
-[🔗 Ver online](https://proendriulike.github.io/cardapio-pizzas)
+[🔗 Ver online](https://endriu-presmini.github.io/cardapio-pizzas)
 
 ---
 
